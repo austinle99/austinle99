@@ -1,6 +1,9 @@
 ## Hello World! 👋
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RvZzQybXQxdGNhZXh2bHpjMDdpcjFtd29lcXlzNDhrMGJ4a2gxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RvZzQybXQxdGNhZXh2bHpjMDdpcjFtd29lcXlzNDhrMGJ4a2gxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Coding animation" width="300">
+</div>
+
 👋 Hello, I'm Minh Ngoc Le 
 <br>
 <br>🛠 DevOps Engineer & Full-Stack Developer
