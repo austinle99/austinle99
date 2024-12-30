@@ -3,10 +3,10 @@
 👋 Hello, I'm Minh Ngoc Le 
 <br>
 <br>🛠 DevOps Engineer & Full-Stack Developer
-<br>I'm a versatile DevOps engineer with a broad skill set spanning multiple programming languages, frameworks, databases, and cloud technologies. My expertise allows me to bridge the gap between development and operations, ensuring smooth, efficient, and reliable software delivery pipelines.<br><br>🚀 What I Do<br>As a DevOps engineer, I specialize in:<br>Implementing and managing CI/CD pipelines
+<br>I'm a versatile DevOps engineer with a broad skill set spanning multiple programming languages, frameworks, databases, and cloud technologies. My expertise allows me to bridge the gap between development and operations, ensuring smooth, efficient, and reliable software delivery pipelines.<br><br>🚀 What I Do:<br>As a DevOps engineer, I specialize in:<br>Implementing and managing CI/CD pipelines
 <br>Containerization and orchestration (Docker, Kubernetes)<br>Infrastructure as Code (IaC)
 <br>Cloud architecture and management<br>Monitoring and observability<br>Microservices architecture
-<br>Full-stack development
+<br>Full-stack development <br>
 <br>🌱 I'm currently learning
 <br>Advanced Kubernetes patterns
 <br>Serverless architectures<br>Machine Learning Ops (MLOps) <br>
