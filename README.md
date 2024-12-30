@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 # 💫 About Me:
 👋 Hello, I'm Minh Ngoc Le 
 <br>
@@ -7,12 +7,12 @@
 <br>🚀 What I Do:<br>As a DevOps engineer, I specialize in:<br>Implementing and managing CI/CD pipelines
 <br>Containerization and orchestration (Docker, Kubernetes)<br>Infrastructure as Code (IaC)
 <br>Cloud architecture and management<br>Monitoring and observability<br>Microservices architecture
-<br>Full-stack development <br>
+<br>Full-stack development. <br>
 <br>🌱 I'm currently learning...
 <br>Advanced Kubernetes patterns
-<br>Serverless architectures<br>Machine Learning Ops (MLOps) <br>
+<br>Serverless architectures<br>Machine Learning Ops. (MLOps) <br>
 <br>📫 How to reach me:
-<br>Email: austinle2010@gmail.com<br><br>💼 Open for Opportunities<br>I'm always interested in challenging DevOps projects and opportunities. Feel free to reach out if you'd like to collaborate
+<br>Email: austinle2010@gmail.com<br><br>💼 Open for Opportunities<br>I'm always interested in challenging DevOps projects and opportunities. Feel free to reach out if you'd like to collaborate!
 
 
 ## 🌐 Socials:
