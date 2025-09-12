@@ -13,10 +13,12 @@
 <br>Cloud architecture and management<br>Monitoring and observability<br>Microservices architecture
 <br>Full-stack development. <br>
 <br>🌱 I'm currently learning...
+<br> Deep Learning
+<br> Model Quantization
 <br>Advanced Kubernetes patterns
 <br>Serverless architectures<br>Machine Learning Ops. (MLOps) <br>
 <br>📫 How to reach me:
-<br>Email: austinle2010@gmail.com<br><br>💼 Open for Opportunities<br>I'm always interested in challenging DevOps projects and opportunities. Feel free to reach out if you'd like to collaborate!
+<br>Email: austinle2010@gmail.com<br><br>💼 Open for Opportunities<br>I'm always interested in challenging AI/MLOps projects and opportunities. Feel free to reach out if you'd like to collaborate!
 
 
 ## 🌐 Socials:
