@@ -7,8 +7,8 @@
 👋 Hello, I'm Minh Ngoc Le 
 <br>
 <br>🛠 AI Developer, Prompt Engineer & Full-Stack Developer
-<br>I'm a versatile DevOps and AI engineer with a broad skill set spanning multiple programming languages, frameworks, databases, and cloud technologies. My expertise allows me to bridge the gap between development and operations, ensuring smooth, efficient, and reliable software delivery pipelines, also embedding AI into workflows.<br>
-<br>🚀 What I Do:<br>As a DevOps engineer, I specialize in:<br>Implementing and managing CI/CD pipelines
+<br>I'm a versatile Fullstack Engineer and AI developer with a broad skill set spanning multiple programming languages, frameworks, databases, and cloud technologies. My expertise allows me to bridge the gap between development and operations, ensuring smooth, efficient, and reliable software delivery pipelines, also embedding AI into workflows.<br>
+<br>🚀 What I Do:<br>As an AI/ML engineer, I specialize in:<br>Implementing and managing CI/CD pipelines
 <br>Containerization and orchestration (Docker, Kubernetes)<br>Infrastructure as Code (IaC)
 <br>Cloud architecture and management<br>Monitoring and observability<br>Microservices architecture
 <br>Full-stack development. <br>
