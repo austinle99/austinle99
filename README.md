@@ -1,6 +1,7 @@
 ## Hello World! 👋
-# 💫 About Me:
-![Mynyx Systems](https://github.com/austinle99/austinle99/blob/main/mynyx-logo.png?raw=true)
+# 💫 About Us:
+
+<img width="1446" height="1087" alt="mynyx_hq" src="https://github.com/user-attachments/assets/f32859a2-e73d-441e-84c5-570446935211" />
 
 **Mynyx Systems**
 
