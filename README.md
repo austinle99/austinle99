@@ -1,24 +1,26 @@
 ## Hello World! 👋
 # 💫 About Me:
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RvZzQybXQxdGNhZXh2bHpjMDdpcjFtd29lcXlzNDhrMGJ4a2gxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Coding animation" width="300">
-</div>
+![Mynyx Systems](https://github.com/austinle99/austinle99/blob/main/mynyx-logo.png?raw=true)
 
-👋 Hello, I'm Minh Ngoc Le 
-<br>
-<br>🛠 AI Developer, Prompt Engineer & Full-Stack Developer
-<br>I'm a versatile Fullstack Engineer and AI developer with a broad skill set spanning multiple programming languages, frameworks, databases, and cloud technologies. My expertise allows me to bridge the gap between development and operations, ensuring smooth, efficient, and reliable software delivery pipelines, also embedding AI into workflows.<br>
-<br>🚀 What I Do:<br>As an AI/ML engineer, I specialize in:<br>Implementing and managing CI/CD pipelines
-<br>Containerization and orchestration (Docker, Kubernetes)<br>Infrastructure as Code (IaC)
-<br>Cloud architecture and management<br>Monitoring and observability<br>Microservices architecture
-<br>Full-stack development. <br>
-<br>🌱 I'm currently learning...
-<br> Deep Learning
-<br> Model Quantization
-<br> Agentic AI
-<br>Serverless architectures<br>Machine Learning Ops. (MLOps) <br>
-<br>📫 How to reach me:
-<br>Email: austinle2010@gmail.com<br><br>💼 Open for Opportunities<br>I'm always interested in challenging AI/MLOps projects and opportunities. Feel free to reach out if you'd like to collaborate!
+**Mynyx Systems**
+
+*Designing Intelligent AI Solutions | Engineering Scalable AI Infrastructure*
+
+Mynyx Systems is an AI-first technology startup specializing in **end-to-end AI solution design** and **high-performance AI infrastructure engineering**.
+
+We transform cutting-edge artificial intelligence research into production-ready, scalable, and business-impactful systems. Our core strength lies in architecting complete AI solutions — from intelligent autonomous agents to sophisticated AI platforms — while building robust, automated infrastructure that enables reliable AI deployment at scale.
+
+**Core Expertise**
+
+- **AI Solution Design**: Architecting intelligent, user-centric, and autonomous AI applications that deliver real-world business value (Agentic AI, computer vision agents, optimization systems, and more).
+- **AI Infrastructure & MLOps**: Designing and implementing high-performance, cloud-native AI platforms — including model training pipelines, inference optimization (quantization), monitoring, orchestration, CI/CD, Docker, Kubernetes, Infrastructure as Code, and microservices.
+- Advanced AI/ML Engineering: Deep Learning, Transformers, LLMs, model quantization, and efficient inference.
+
+From embedded AI and computational theory projects to practical AI-driven tools like swarm intelligence and container optimization systems, Mynyx Systems is committed to building the next generation of intelligent technology.
+
+We are actively expanding our open-source portfolio and enterprise AI solutions.
+
+Explore our repositories, contribute, or reach out for collaboration!
 
 
 ## 🌐 Socials:
