@@ -5,7 +5,7 @@
 
 **AIX Solutions**
 
-*Designing Intelligent AI Solutions | Engineering Scalable AI Infrastructure*
+*Augment human judgment | Engineering Scalable AI Infrastructure*
 
 AIX Solutions is an AI-first technology startup specializing in **end-to-end AI solution design** and **high-performance AI infrastructure engineering**.
 
